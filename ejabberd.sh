@@ -377,7 +377,7 @@ echo "cat >> /etc/letsencrypt/live/example.com/privkey.pem /etc/ejabberd/ejabber
 echo "........................"
 
 echo Copy and paste these lines. just make sure you replace example.com with your domain!
-echo Make sure to change the "hostname" section in "/etc/ejabberd.erjabberd.yml"
+echo Make sure to change the "hostname" section in "/etc/ejabberd.ejabberd.yml"
 echo to your domain!!
 echo ..........
 echo "lines you need to edit in ejabberd.yml:
